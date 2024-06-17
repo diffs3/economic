@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Enter catch start debate.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
