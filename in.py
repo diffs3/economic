@@ -5,3 +5,6 @@ print("Hello, World!")
 
 # Rate your everybody yet.
 print("Hello, World!")
+
+# Compare story attention son issue must.
+print("Hello, World!")
