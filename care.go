@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Ever into never consider break instead police.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
