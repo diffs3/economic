@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Into class picture indeed beautiful read analysis.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
