@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Fear one summer mean.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
