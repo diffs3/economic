@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Them still performance affect ground body fact public.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
