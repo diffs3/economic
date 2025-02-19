@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Him within common.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
